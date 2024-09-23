@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+    background-color: rgba(0, 0, 0, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    height: 50px;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+
+#password {
+    display: block;  
+    width: 200px; 
+    border-radius: 0px; 
+    border: 0px #258850 ;
+    size: 12px;  
+    height: 35px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;      
+}
+
+.strengthIndicator {
+
+color:rgb(169, 143, 143);
+font-size: 16px;
+margin-top: 20px;
+}
+
+.veryweak {
+
+    color: red;
+
+}
+
+
+.weak {
+
+color: yellow;
+
+}
+
+.good{
+
+color: rgb(48, 191, 48);
+
+}
+
+
+.strong{
+
+color: blue;
+
+}
