@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Romeo Esty</h1>
 <h3 align="center">🎓 I'm an undergraduate Computer Science student with a strong passion for DevOps. 🚀 I'm currently honing my skills in tools like Linux, AWS, Git, and more. 💻 In addition to my DevOps knowledge, I have hands-on experience working with programming languages and frameworks such as Python, Java, JavaScript, Pandas, and C#.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-esty" alt="r-esty" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/romeo esty](https://www.linkedin.com/in/romeo-esty-860926297/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romeo esty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/romeo esty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romeo esty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
