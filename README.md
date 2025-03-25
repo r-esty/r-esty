@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romeo Esty</h1>
-<h3 align="center">🎓 I'm an undergraduate Computer Science student with a strong passion for DevOps. 🚀 I'm currently developing my skills in tools like Linux, AWS, Git, and more. 💻 In addition to my DevOps knowledge, I have hands-on experience working with programming languages and frameworks such as Python, Java, JavaScript, Pandas, and C#.</h3>
+<h3 align="center">🎓 I'm a individual with a strong passion for DevOps. 🚀 I'm currently developing my skills in tools like Linux, AWS, Git, and more. 💻 In addition to my DevOps knowledge, I have hands-on experience working with programming languages and frameworks such as Python, Java, JavaScript, Pandas, and C#.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
