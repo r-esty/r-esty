@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Romeo 👋</h1>
 <h3 align="center">DevOps Engineer | Building with AWS, Terraform & Kubernetes</h3>
 
-- ☁️ Building infrastructure and automating deployments on **AWS**
-- 🔧 Currently working on deploying **Gatus** uptime monitoring to **EKS**
-- 📝 I write about DevOps and cloud on [LinkedIn](https://www.linkedin.com/in/romeo-esty/)
+- Building infrastructure and automating deployments on **AWS**
+- Currently working on deploying **Gatus** uptime monitoring to **EKS**
+- I write about DevOps and cloud on [LinkedIn](https://www.linkedin.com/in/romeo-esty/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
