@@ -1,13 +1,9 @@
 <h1 align="center">Hey there, I'm Romeo 👋</h1>
 <h3 align="center">DevOps Engineer | Building with AWS, Terraform & Kubernetes</h3>
 
-<br>
-
 - ☁️ Building infrastructure and automating deployments on **AWS**
 - 🔧 Currently working on deploying **Gatus** uptime monitoring to **EKS**
 - 📝 I write about DevOps and cloud on [LinkedIn](https://www.linkedin.com/in/romeo-esty/)
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,14 +12,10 @@
   </a>
 </p>
 
-<br>
-
 <h3 align="left">Projects:</h3>
 
 1. [YouTube Transcript Summariser](https://github.com/r-esty/youtube_transcript_summariser) - Summarises YouTube videos using AI, deployed on AWS ECS Fargate with full CI/CD and IaC
 2. [EKS Gatus](https://github.com/r-esty/eks-gatus) - Deploying Gatus uptime monitoring to AWS EKS using Terraform and Helm (in progress)
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,7 +44,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-esty&show_icons=true&locale=en&layout=compact" alt="r-esty" /></p>
