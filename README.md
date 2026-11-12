@@ -15,7 +15,7 @@
 <h3 align="left">Projects:</h3>
 
 1. [YouTube Transcript Summariser](https://github.com/r-esty/youtube_transcript_summariser) - Summarises YouTube videos using AI, deployed on AWS ECS Fargate with Terraform, GitHub Actions CI/CD and Trivy/CodeQL scanning
-2. [2048 EKS](https://github.com/r-esty/2048_EKS) - Deploying to AWS EKS using Terraform (in progress)
+2. [2048 EKS](https://github.com/r-esty/eks_2048) - Deploying to AWS EKS using Terraform (in progress)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
